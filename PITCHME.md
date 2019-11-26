@@ -8,10 +8,6 @@
 # resources
 @snapend
 
---- 
 ---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
 
-
-@snap[north-span-100]
 ---?video=https://youtu.be/Meabneaz5yc
-@snapend
