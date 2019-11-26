@@ -5,6 +5,6 @@
 @snapend
 
 @snap[south span-100 h1-white]
-# Bbbbbb
+# resources
 @snapend
 
