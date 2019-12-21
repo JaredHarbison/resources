@@ -1,1 +1,1 @@
-# resources
+https://gitpitch.com/jaredharbison/resources
