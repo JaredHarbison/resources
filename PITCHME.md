@@ -1,1 +1,1 @@
-![Server-Building](https://github.com/JaredHarbison/resources/blob/master/assets/GitPitch__ServerBuilding.jpg)
+---?image=assets/GitPitch__ServerBuilding.jpg
