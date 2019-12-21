@@ -1,13 +1,1 @@
----?color=linear-gradient(180deg, white 33.33%, #1F6ED4 33.33%)
-
-@snap[north span-100]
-# @fa[laptop-code text-black]
-@snapend
-
-@snap[south span-100 h1-white]
-# resources
-@snapend
-
----?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
-
----?video=https://youtu.be/PSzNiSE-bNs
+![Server-Building](https://github.com/JaredHarbison/resources/blob/master/assets/GitPitch__ServerBuilding.jpg)
