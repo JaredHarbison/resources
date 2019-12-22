@@ -1,6 +1,6 @@
 ---?image=assets/GitPitch__ServerBuilding.jpg
 
-@snap[north-west span-15 text-center text-white]
+@snap[north-west span-15 text-center h3-white]
 ### RESOURCES
 @snapend
 
@@ -8,4 +8,12 @@
 - libraries
 - ux/ui tools
 - guides & docs 
+@snapend
+
+@snap[south]
+# Hello
+@snapend
+
+@snap[south-east fragment]
+# World!
 @snapend
