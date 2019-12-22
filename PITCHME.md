@@ -4,7 +4,7 @@
 ### RESOURCES
 @snapend
 
-@snap[south-west span-30 text-center h3-white]
+@snap[south-west span-30 text-center text-white]
   @ul
     - libraries
     - ux/ui tools
@@ -12,3 +12,22 @@
   @ulend
 @snapend
 
+@snap
+  @ul[south-west span-30 text-center text-white]
+    - libraries
+    - ux/ui tools
+    - guides & docs
+  @ulend
+@snapend
+
+@snap[south-west span-30 text-center text-white]
+    - libraries
+    - ux/ui tools
+    - guides & docs
+@snapend
+
+@ul
+  - libraries  
+  - ux/ui tools
+  - guides & docs
+@ulend
