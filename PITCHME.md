@@ -5,9 +5,9 @@
 @snapend
 
 
-@box[north-east span-75 bg-gray text-white fragment](libraries)
+@box[north-east span-75 bg-gray text-white fragment](#libraries)
 
-@box[north-east span-75 bg-gray text-white fragment](ux/ui tools)
+@box[north-east span-75 bg-gray text-white fragment](#ux/ui tools)
 
-@box[north-east span-75 bg-gray text-white fragment](guides & docs)
+@box[north-east span-75 bg-gray text-white fragment](#guides & docs)
 
