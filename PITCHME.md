@@ -4,9 +4,10 @@
 ### RESOURCES
 @snapend
 
-@box[north-east span-75 bg-black text-white fragment](libraries)<br>
+@snap[west span-15]
+@box[span-75 bg-black text-white fragment](libraries)
 
-@box[north-east span-75 bg-black text-white fragment](ux/ui tools)<br>
+@box[span-75 bg-black text-white fragment](ux/ui tools)
 
-@box[north-east span-75 bg-black text-white fragment](guides & docs)<br>
-
+@box[span-75 bg-black text-white fragment](guides & docs)
+@snapend
