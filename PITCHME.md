@@ -5,7 +5,7 @@
 @snapend
 
 @snap[south-west span-30]
-  @box[text-white fragment](libraries)
-  @box[text-white fragment](ux/ui tools)
-  @box[text-white fragment](guides & docs)
+  @box[span-30 text-white fragment](libraries)
+  @box[span-30 text-white fragment](ux/ui tools)
+  @box[span-30 text-white fragment](guides & docs)
 @snapend
