@@ -8,10 +8,10 @@
   @box[text-white](libraries)
 @snapend
 
-@snap
+@snap[north-east span-75]
   @box[text-white](ux/ui tools)
 @snapend
 
-@snap
+@snap[north-east span-75]
   @box[text-white](guides & docs)
 @snapend
