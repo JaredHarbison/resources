@@ -4,30 +4,13 @@
 ### RESOURCES
 @snapend
 
-@snap[south-west span-30 text-center text-white]
-  @ul
-    - libraries
-    - ux/ui tools
-    - guides & docs
-  @ulend
+@snap[south-west]
+  ### HI
+  @snap[north-east]
+    @ul
+      - BRING
+      - BACK
+      - MY GIRLS
+    @ulend
+  @snapend
 @snapend
-
-@snap
-  @ul[south-west span-30 text-center text-white]
-    - libraries
-    - ux/ui tools
-    - guides & docs
-  @ulend
-@snapend
-
-@snap[south-west span-30 text-center text-white]
-    - libraries
-    - ux/ui tools
-    - guides & docs
-@snapend
-
-@ul
-  - libraries  
-  - ux/ui tools
-  - guides & docs
-@ulend
