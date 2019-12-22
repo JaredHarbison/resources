@@ -4,7 +4,11 @@
 ### RESOURCES
 @snapend
 
-@box[south-west span-30 bg-black text-white fragment](libraries)
-@box[south-west span-30 bg-black text-white fragment](ux/ui tools)
-@box[south-west span-30 bg-black text-white fragment](guides & docs) 
+@snap[south-west span-30 text-center h3-white]
+  @ul
+    - libraries
+    - ux/ui tools
+    - guides & docs
+  @ulend
+@snapend
 
