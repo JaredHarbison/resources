@@ -5,9 +5,7 @@
 @snapend
 
 @snap[north-east span-75]
-  @ul[text-white]
     @box[text-white](libraries)
     @box[text-white](ux/ui tools)
     @box[text-white](guides & docs)
-  @ulend
 @snapend
