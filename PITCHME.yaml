@@ -1,4 +1,7 @@
 theme            : template
+logo             : @snap[north-west span-15 text-center h3-white]
+                      ### RESOURCES
+                   @snapend
 
 theme-background : [ "#5289F7" ]
 theme-headline   : [ "Work Sans", "white", "none" ]
