@@ -1,6 +1,7 @@
 ---?image=assets/GitPitch__ServerBuilding.jpg
+---?color=#FFFFFF
 
-@snap[west span-15 text-center h1-white]
+@snap[north-west span-15 text-center h1-white]
 ### RESOURCES
 @snapend
 
