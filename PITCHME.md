@@ -4,16 +4,9 @@
 ### RESOURCES
 @snapend
 
-@snap[north-east span-75 text-center text-white]
+@ul[north-east span-75 text-center text-white]
 - libraries
 - ux/ui tools
 - guides & docs 
-@snapend
+@ulend
 
-@snap[south]
-# Hello
-@snapend
-
-@snap[south-east fragment]
-# World!
-@snapend
