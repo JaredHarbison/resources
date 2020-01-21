@@ -1,8 +1,10 @@
 ---?image=assets/GitPitch__ServerBuilding.jpg
 
 @snap[north-west span-15 text-center h3-white]
-### RESOURCES
+## RESOURCES
 @snapend
+
+---?image=assets/GitPitch__ServerBuilding.jpg
 
 @snap[north-east span-75 text-center h3-white]
 ### Figma
